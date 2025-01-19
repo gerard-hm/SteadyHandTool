@@ -4,6 +4,6 @@ Open sourced models for SteadyHandTool, see https://halfmarble.com/blogs/news/st
 
 ## Screenshots:
 
-The 3D model (sorry - the highllighted parts are not open source yet)
+The 3D model (sorry - the highlighted parts are not open source yet)
 
-![screenshot](StedyHandToolModel.png)
+![screenshot](SteadyHandToolModel.png)
