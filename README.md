@@ -6,4 +6,6 @@ Open sourced models for SteadyHandTool, see https://halfmarble.com/blogs/news/st
 
 The 3D model (sorry - the highlighted parts are not open source yet)
 
+The rest of models are releases under https://creativecommons.org/licenses/by/4.0/
+
 ![screenshot](SteadyHandToolModel.png)
