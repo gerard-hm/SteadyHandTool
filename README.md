@@ -82,7 +82,7 @@ steady-hand-tool/
 │   ├── assembly-guide.md   # Step-by-step build instructions
 │   ├── images/             # Photos and GIFs used in the guides
 │   └── calibration.md      # How to tune the arm for smooth movement
-├── media/                  # High-res logos and marketing photos
+├── media/                  # Marketing photos and build images
 ├── .gitignore              # Tells Git which files to ignore (like temp CAD files)
 ├── BOM.md                  # Bill of Materials (the "Shopping List")
 ├── CONTRIBUTING.md         # How others can help
@@ -103,11 +103,11 @@ The Steady Hand Tool is an engineering response to a personal biological war. It
 This is a race against time and biology. We invite you to pick up a wrench and help us optimize the hardware for the next generation of makers facing similar constraints. Feedback, CAD iterations, and mechanical refinements are the high-octane fuel that keeps this engine running.
 
 <p align="left">
-  <a href="https://give.michaeljfox.org/give/421686/#!/donation/checkout">
-    <img src="media/team-fox-logo.png" alt="Team Fox Logo" width="400">
-  </a>
+  <b>10% of the net profit</b> from selling the Steady Hand Tool will go directly to support
+  <a href="https://www.teamfox.org">Team Fox</a>, the grassroots fundraising program of
+  The Michael J. Fox Foundation for Parkinson’s Research.
   <br>
-  <em>If this tool has been helpful to you, please consider supporting the <b>Michael J. Fox Foundation</b> in their mission to find a cure for Parkinson’s.</em>
+  <em>halfmarble is an independent Team Fox third-party fundraiser.</em>
 </p>
 
 ---
@@ -115,6 +115,10 @@ This is a race against time and biology. We invite you to pick up a wrench and h
 ## License
 
 This project is licensed under the [**CERN-OHL-S-2.0 License**](https://choosealicense.com/licenses/cern-ohl-s-2.0/) - see the [LICENSE](LICENSE) file for details.
+
+## Trademarks
+
+The license above covers this repository’s hardware designs and documentation. It grants no rights to any trademark, trade name, or logo — including the Team Fox and Michael J. Fox Foundation marks, and halfmarble’s own.
 
 ---
 
