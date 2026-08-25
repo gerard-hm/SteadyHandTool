@@ -76,3 +76,7 @@ Before starting, sort your bolts into two main piles based on their diameter and
 ---
 
 **Next Step:** Watch Part 2 to learn how to install the magnets for the base and interface.
+
+> **Before you install any magnet, read the [Magnet Polarity Standard](magnet-polarity.md).**
+> Orientation cannot be read from a model file, and getting it wrong is what stops one
+> person's tool adapter from seating in another person's base.
