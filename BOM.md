@@ -23,8 +23,12 @@ The Steady Hand Tool is designed for easy sourcing. You can find the links and v
 | :---: | :--- | :--- | :--- |
 | <img src="media/rods.jpg" width="100"> | [**Carbon Fiber Rods**](https://amzn.to/4jpyyZC) | 8mm Diameter x 300mm | Main vertical and horizontal rails |
 | <img src="media/bearings.jpg" width="100"> | [**MR128ZZ Bearings**](https://amzn.to/42kMWMD) | 8x12x3.5mm (14 required) | Frictionless carriage movement |
-| <img src="media/magnets.jpg" width="100"> | [**Magnets**](https://amzn.to/4hq1puZ) | 4mm x 2mm Neodymium | Magnetic tool coupler interface |
+| <img src="media/magnets.jpg" width="100"> | [**Magnets**](https://amzn.to/4hq1puZ) | 4mm x 2mm Neodymium (56 required, buy 60) | Magnetic tool coupler interface. **Orientation matters** — see the [Magnet Polarity Standard](docs/magnet-polarity.md) |
 | <img src="media/weights.jpg" width="100"> | [**Base Weights**](https://amzn.to/4armCCl) | Metal BBs or Bearing Balls | Ballast to prevent tipping |
+
+**Magnet count, broken down:** 24 in the base (four tool pockets, six each), 24 in the four
+tool adapters, and 8 in the tool interface — 56 in total. Buy 60; they are small, and one
+will find the floor.
 
 ### 🔩 Fasteners
 
