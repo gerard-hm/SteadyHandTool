@@ -74,6 +74,20 @@ ones is the case worth avoiding: the part still holds, but it rocks on the odd m
 holding force drops noticeably. That is why the whole array shares one pole. There is no phase to
 get right, and a mistake is obvious rather than subtle.
 
+## Hardware built before this standard
+
+This document fixes the convention going forward. Prototypes assembled before it exists may be
+polarised either way, because nothing recorded which way they went — that is the whole reason for
+writing it down.
+
+**Build production hardware to the standard above, not to a prototype.** If an old base and a new
+adapter push apart, the old base predates the convention; it is not evidence that the convention
+is wrong.
+
+Re-polarising an existing part is straightforward and reversible. Push each magnet out through
+its ⌀1.5 mm air-relief hole with a pin, turn it over, and press it back in. There is no adhesive
+and nothing to damage.
+
 ## For adapter designers
 
 Build to **south exposed** and your adapter will seat in any base built to this standard, at any
