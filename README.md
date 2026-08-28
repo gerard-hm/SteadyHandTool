@@ -63,7 +63,7 @@ Steady Hand Tool is a manual SMD (Surface Mount Device) assembly stabilizer desi
 * **Compatibility:** Designed to support a pair of specialized reverse tweezers optimized for 0805-size components and smaller.
 
 > [!TIP]
-> **Looking to build it?** Check out our [Assembly Guide](https://github.com/gerard-hm/steady-hand-tool/blob/main/docs/assembly-guide.md) for step-by-step instructions.
+> **Looking to build it?** Check out our [Assembly Guide](https://github.com/gerard-hm/SteadyHandTool/blob/main/docs/assembly-guide.md) for step-by-step instructions.
 
 ## 📂 Repository Structure
 
