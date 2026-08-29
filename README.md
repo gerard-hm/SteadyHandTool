@@ -104,7 +104,7 @@ This is a race against time and biology. We invite you to pick up a wrench and h
 
 <p align="left">
   <b>10% of the net profit</b> from selling the Steady Hand Tool will go directly to support
-  <a href="https://www.teamfox.org">Team Fox</a>, the grassroots fundraising program of
+  <a href="https://give.michaeljfox.org/halfmarble">Team Fox</a>, the grassroots fundraising program of
   The Michael J. Fox Foundation for Parkinson’s Research.
   <br>
   <em>halfmarble is an independent Team Fox third-party fundraiser.</em>
