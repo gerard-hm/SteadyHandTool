@@ -59,5 +59,5 @@ goes into the arm. The step-by-step breakdown is in the
 
 | Image | Item | Specification | Purpose |
 | :---: | :--- | :--- | :--- |
-| <img src="media/tweezers.jpg" width="100"> | [**Reverse Tweezers**](https://amzn.to/4g4LjWo) | Needle-point, locking | Holding SMD parts during placement |
+| <img src="media/tweezers.jpg" width="100"> | [**Reverse Tweezers**](https://www.amazon.com/dp/B07V8SLF2T?tag=halfmarble0f-20) | Reverse action (self-closing) — squeeze to open | Holding SMD parts during placement |
 | <img src="media/tools.jpg" width="100"> | [**Ball-Hex Drivers**](https://amzn.to/4jlawie) | Metric Allen Key Set | Recommended for assembly |
